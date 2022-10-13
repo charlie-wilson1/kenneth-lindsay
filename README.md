@@ -1,14 +1,14 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm James.</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Kenneth.</h1>
 
 <center>
   <table>
     <tr>
         <td>
           <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-jefferson1&hide=html,php,csharp,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-lindsay&hide=html,php,csharp,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
       </td>
       <td>
-          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=matt-jefferson1&show_icons=true&count_private=true&theme=dracula" />
+          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=kenneth-lindsay&show_icons=true&count_private=true&theme=dracula" />
       </td>
     </tr>   
   </table>
